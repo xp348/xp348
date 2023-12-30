@@ -3,6 +3,7 @@
 
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Vladimir_Bzzz)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](xp34gvova@gmail.com)
 
 I'm a frontend developer from Russia, working at [Black Mesa IT](https://blackmesait.ru/)
 
@@ -22,11 +23,11 @@ I'm a frontend developer from Russia, working at [Black Mesa IT](https://blackme
 <details align="left">
   <summary><h2><b>⭐GitHub stats</b></h2></summary>
   <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xp348&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xp348&theme=dracula&layout=compact&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000" />
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=xp348&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+   <img src="https://github-readme-stats.vercel.app/api?username=xp348&count_private=true&show_icons=true&theme=dracula&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000" />
     <br>
-   <img src="https://metrics.lecoq.io/baggerfast" />
+   <img src="https://metrics.lecoq.io/xp348" />
   </p>
 </details>
 
