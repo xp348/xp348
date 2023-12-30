@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="left">👋 Hello! I'm Vladimir </h1>
+
+
+## About me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)]([https://tlgg.ru/BaggerFast](https://t.me/Vladimir_Bzzz))
+
+
+
 
 <!--
 **xp348/xp348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
