@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=angular,rxjs,tailwind,docker,git,angularmaterial&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=vscode&perline=7" />
-    <br>
+   
   </p>
 </details>
 
@@ -29,7 +29,6 @@
   
    <img src="https://github-readme-stats.vercel.app/api?username=xp348&count_private=true&show_icons=true&theme=dracula&hide_border=true&exclude_repo=intelligent-information-systems&bg_color=00000000"  />
   
-    <br>
   <!-- light -->
   </a>
    <a  href="https://github.com/xp348/github-readme-stats#responsive-card-theme#gh-light-mode-only">
