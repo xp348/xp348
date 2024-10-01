@@ -13,7 +13,7 @@
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts&perline=7" />
     <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=angular,rxjs,tailwind,docker,git,angularmaterial&perline=7" />
+    <img src="https://skillicons.dev/icons?i=angular,rxjs,tailwind,docker,git,angularmaterial,react,materialui,vite&perline=7" />
     <h3>Software</h3>
     <img src="https://skillicons.dev/icons?i=vscode&perline=7" />
    
